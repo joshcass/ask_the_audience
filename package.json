@@ -1,0 +1,20 @@
+{
+  "name": "ask_the_audience",
+  "version": "1.0.0",
+  "description": "websocket tutorial",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joshcass/ask_the_audience"
+  },
+  "author": "Josh Cass",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joshcass/ask_the_audience/issues"
+  },
+  "homepage": "https://github.com/joshcass/ask_the_audience"
+}
